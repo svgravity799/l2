@@ -20,7 +20,7 @@ $("[class=form__field]").setValue("testfsabonent@yandex.ru");
 $("[id=password]").setValue("Abonent13!");
 $("[type=submit]").click();
 $("[class=arrival-country-field__pinput]").click();
-        //$x("//div[text()='АОЭ']").click();
+        //$x("//div[text()='АОЭ']").click()
 $(byText("Турция")).click();
 
 
