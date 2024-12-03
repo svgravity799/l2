@@ -22,7 +22,11 @@ $("[type=submit]").click();
 $("[class=arrival-country-field__pinput]").click();
         //$x("//div[text()='АОЭ']").click()
 $(byText("Турция")).click();
-
+     //   $("[class=calendar-popup__body_month-header-arrow-right]").click();
+     //   $("[class=calendar-popup__body_month-header-arrow-right]").click();
+    //    $("[class=calendar-popup__body_month-header-arrow-right]").click();
+     //   $("[class=calendar-popup__body_month-header-arrow-right]").click();
+     //   $("[class=calendar-popup__body_month-header-arrow-right]").click();
 
 
 
